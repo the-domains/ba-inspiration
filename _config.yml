@@ -12,3 +12,7 @@ color:
     - '#FFC0A9'
     - '#FF8598'
 name: BA Inspiration
+navigation:
+  - name: Green Film Fest
+    url: 'https://www.facebook.com/BAInspiration/posts/1195406710510319'
+    type: external

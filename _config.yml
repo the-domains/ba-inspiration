@@ -1,14 +1,14 @@
-layout_spectrum: 0.40715371281839907
-typography_spectrum: 0.12295601749792695
+layout_spectrum: 0.33872423390857875
+typography_spectrum: 0.2753061605617404
 color:
-  brandStrength: 0.9964834048878402
-  lightness: 0.4820257199462503
-  saturation: 0.1875409889034927
-  rhythmicContrast: 0.3078606005292386
+  brandStrength: 0.7354718432761729
+  lightness: 0.39022175199352205
+  saturation: 0.7429515533149242
+  rhythmicContrast: 0.5037839948199689
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 name: BA Inspiration
